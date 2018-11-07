@@ -6,7 +6,7 @@ The final goal of the task is to analyze the Taxi's trips in NYC.
 ## Get data to analyze
 ### Download datasets 
 The data in usage are available on [NYC Taxi & Limousine Commission](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml) page. 
-We use the data for the first six month of 2018, only for the Yellow cabs. The yellow taxi trip records include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts.
+We used the data for the first six months of 2018, only for the Yellow cabs. The yellow taxi trip records include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts.
 
 For reference regarding the taxi zones and NY's boroughs, the information can be found in this file `taxi_zone_lookup.csv`. 
 
