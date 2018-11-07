@@ -15,9 +15,9 @@ To understand the data, we read the [legend](http://www.nyc.gov/html/tlc/downloa
 To better understand the taxi's trips, we read something about Yellow Taxis in NYC [here](http://www.nyc.gov/html/tlc/downloads/pdf/taxi_information.pdf). 
 
 #### Remark: 
-We have trouble viewing the maps, so we upload the `html` files with them.
+We have trouble viewing the maps in the Jupyter Notebook Viewer, so we upload the `html` files seperately.
 
-## Script descriptions
+## Script description
 1. `Homework_2.py`:
 > This script provides the code of the entire analysis. It is divided in two parts:
 > 1. the first with the code of *Exploratory Data Analysis*
