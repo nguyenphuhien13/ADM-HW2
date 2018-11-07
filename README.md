@@ -14,8 +14,6 @@ To understand the data, we read the [legend](http://www.nyc.gov/html/tlc/downloa
 
 To better understand the taxi's trips, we read something about Yellow Taxis in NYC [here](http://www.nyc.gov/html/tlc/downloads/pdf/taxi_information.pdf). 
 
-### Installing
-
 
 ## Script descriptions
 1. `Homework2.py`:
