@@ -19,7 +19,7 @@ For better understanding of the taxis' trips, we have read information about Yel
 We have trouble viewing the maps in the Jupyter Notebook Viewer, so we upload the `html` files seperately.
 
 ## Script description
-1. `Homework_2.py`:
+1. `Homework_2.ipynb`:
 > This script provides the code of the entire analysis. It is divided in two parts:
 > 1. the first with the code of *Exploratory Data Analysis*
 > 2. the second with the code of *Core Research Questions*.
