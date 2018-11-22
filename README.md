@@ -26,4 +26,4 @@ We have trouble viewing the maps in the Jupyter Notebook Viewer, so we upload th
 
 2. `nyc1.html`
 3. `nyc_samelocation1.html`
-> They contain the maps of *Core Research Questions 2*.
+> They contain the maps of *Core Research Question 2*.
